@@ -1,0 +1,6 @@
+n = int(input('Входные данные: '))
+print('   _~_    ' * n)
+print('  (o o)   ' * n)
+print(' /  V  \  ' * n)
+print('/(  _  )\ ' * n)
+print('  ^^ ^^   ' * n)
